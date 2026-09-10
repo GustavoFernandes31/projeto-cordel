@@ -19,7 +19,8 @@ main {
 
 header {
     background-color: black;
-    height: 25vh;
+    text-align: center;
+    min-height: 25vh;
     padding-left: 20px;
     padding-bottom: 20px;
     font-variant: small-caps ;
